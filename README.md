@@ -13,7 +13,7 @@
      
 <strong>Hi, I am JACK-LRF!👋 </strong>
 
-<strong>A full stack developer from China🇨🇳. </strong>
+<strong>A full The front end from China🇨🇳. </strong>
 
 </pre> 
 
