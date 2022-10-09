@@ -15,7 +15,7 @@
 
 <strong>A full The front end from China🇨🇳. </strong>
 
-<strong><a href="https://lrf1997.github.io/">My Blog✨✨✨</a>. </strong>
+<strong><a href="https://lrf1997.github.io/" target="_black">Welcome to my blog</a>✨✨✨. </strong>
 
 </pre> 
 
@@ -38,7 +38,7 @@
 <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
 
 ### 🤝🏻 &nbsp;Connect with Me
-<a href="mailto:941139223@qq.com"><img alt="Email" src="https://img.shields.io/badge/941139223@qq.com-blue?style=flat-square&logo=gmail"></a>
+<a href="mailto:JACK_LRF@163.com"><img alt="Email" src="https://img.shields.io/badge/JACK_LRF@163.com-blue?style=flat-square&logo=gmail"></a>
 
 
 ### 🛳 &nbsp;Your ticket ID for this visit
